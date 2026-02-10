@@ -38,7 +38,7 @@
 }
 
 .h5p-text-input-field .h5p-text-input-field-message-char {
-  font-size: calc(var(--h5p-theme-font-size-m)*0.8;
+  font-size: calc(var(--h5p-theme-font-size-m)*0.8);
   float: left;
 }
 
